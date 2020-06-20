@@ -14,21 +14,13 @@
       .row.content
         = yield
 
-h2 Discussion Area
+      h3 Discussion Area
 
-p Add your comments below and please cite what quote you are referring to.
+      p Add your comments below and please cite what quote you are referring to.
 
-#disqus_thread
-javascript:
-  /!* * * CONFIGURATION VARIABLES * * */
-  | var disqus_shortname = 'hasan-blog';
+      #disqus_thread
+      script src="/source/javascripts/disqus.js" type="text/javascript"
 
-  /!* * * DON'T EDIT BELOW THIS LINE * * */
-  | (function() {
-      | var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-      | dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-      | (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-  | })();
-noscript
-  | Please enable JavaScript to view the
-  a href="https://disqus.com/?ref_noscript" rel="nofollow"  comments powered by Disqus.
+      noscript
+        | Please enable JavaScript to view the
+        a href="https://disqus.com/?ref_noscript" rel="nofollow"  comments powered by Disqus.
