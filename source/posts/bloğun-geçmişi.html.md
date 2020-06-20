@@ -19,3 +19,5 @@ Blogger ile aynı zamanlarda kurulan [LiveJournal](https://tr.wikipedia.org/wiki
 Hızla büyüyen ve ciddi bir akım haline gelen blog dünyasında, İnternetin devlerinden [Yahoo!](https://tr.wikipedia.org/wiki/Yahoo! "Yahoo!") da 2005 yılının Mart ayında kendi blog sistemi [Yahoo! 360](https://tr.wikipedia.org/w/index.php?title=Yahoo!_360&action=edit&redlink=1 "Yahoo! 360 (sayfa mevcut değil)")'ı açtığını ilan etmiş, ancak 2012 yılında ise Yahoo!'nun verdiği bu hizmet Yahoo! tarafından sonlandırılmıştır.
 
 Son olarak 2007 yılında da, Tim O'Reilly [Blogger's Code of Conduct](https://tr.wikipedia.org/w/index.php?title=Blogger%27s_Code_of_Conduct&action=edit&redlink=1 "Blogger's Code of Conduct (sayfa mevcut değil)") fikrini ortaya atmıştır.
+
+> Kaynak: [Wikipedia](https://tr.wikipedia.org/wiki/Blog)
