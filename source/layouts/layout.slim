@@ -18,12 +18,6 @@ html
     
   body
     = partial 'partials/shared/header-primary'
-
-    main.main-content
-      = yield
-    = partial 'partials/shared/footer'
-
-    = javascript_include_tag 'main', async: true
     
     div.112282335
       javascript:
@@ -34,3 +28,11 @@ html
         }
         catch (error) {}
       ...
+      
+    main.main-content
+      = yield
+    = partial 'partials/shared/footer'
+
+    = javascript_include_tag 'main', async: true
+    
+    
