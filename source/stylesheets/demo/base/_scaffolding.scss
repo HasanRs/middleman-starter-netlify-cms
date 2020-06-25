@@ -30,7 +30,7 @@ body {
   line-height: $line-height-base;
   color: $text-color;
   background-color: $body-bg;
-  @include scrollbars(10px, pink, red);
+  @include scrollbars(10px, $primary_color, white);
 }
 
 // Reset fonts for relevant elements
